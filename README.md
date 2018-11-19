@@ -31,3 +31,11 @@ $ npm test
 $ yarn test
 ```
 either of the above to test
+
+## How to get coverage test
+Execute:
+```bash
+$ npm run cover
+$ yarn run cover
+```
+either of the above to test
