@@ -4,7 +4,7 @@
   "description": "A basic calculator in nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   },
   "homepage": "https://github.com/guillercp93/calculatorNodeJS#readme",
   "author": "guillercp93 <guillercp93@gmail.com>",
-  "license": "GNU"
+  "license": "GNU",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
