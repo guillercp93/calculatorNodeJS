@@ -1,5 +1,7 @@
 # calculatorNodeJS
 [![Build Status](https://travis-ci.org/guillercp93/calculatorNodeJS.svg?branch=master)](https://travis-ci.org/guillercp93/calculatorNodeJS)
+[========]
+
 A example to use continuous integration and other online tools
 
 ## Folders Structure
@@ -9,8 +11,8 @@ In the folder `test` is located the unit test
 ## How to install it
 Execute
 ```bash
-    $ npm install
-	$ yarn install
+$ npm install
+$ yarn install
 ```
 
 either of the above to download dependencies
