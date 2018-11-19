@@ -1,0 +1,19 @@
+{
+  "name": "CalculatorNodeJS",
+  "version": "1.0.0",
+  "description": "A basic calculator in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillercp93/calculatorNodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guillercp93/calculatorNodeJS/issues"
+  },
+  "homepage": "https://github.com/guillercp93/calculatorNodeJS#readme",
+  "author": "guillercp93 <guillercp93@gmail.com>",
+  "license": "GNU"
+}
