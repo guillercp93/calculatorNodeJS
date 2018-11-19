@@ -6,6 +6,7 @@ __Sonarqube__: [![Quality Gate](https://sonarcloud.io/api/project_badges/measure
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=guillercp93_calculatorNodeJS&metric=sqale_index)](https://sonarcloud.io/dashboard?id=guillercp93_calculatorNodeJS)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=guillercp93_calculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard?id=guillercp93_calculatorNodeJS)
 [![Duplicated Lines Density](https://sonarcloud.io/api/project_badges/measure?project=guillercp93_calculatorNodeJS&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=guillercp93_calculatorNodeJS)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=guillercp93_calculatorNodeJS&metric=coverage)](https://sonarcloud.io/dashboard?id=guillercp93_calculatorNodeJS)
 [========]
 
 A example to use continuous integration and other online tools

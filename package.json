@@ -4,6 +4,7 @@
   "description": "A basic calculator in nodejs",
   "main": "index.js",
   "scripts": {
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha",
     "test": "mocha"
   },
   "repository": {
@@ -15,9 +16,10 @@
   },
   "homepage": "https://github.com/guillercp93/calculatorNodeJS#readme",
   "author": "guillercp93 <guillercp93@gmail.com>",
-  "license": "GNU",
+  "license": "GPL-3.0",
   "devDependencies": {
     "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
     "mocha": "^5.2.0"
   }
 }

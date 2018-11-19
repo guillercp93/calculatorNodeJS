@@ -6,4 +6,5 @@ jdk:
 addons:
   sonarcloud: true
 script:
+  - npm run cover
   - sonar-scanner -Dsonar.projectKey=guillercp93_calculatorNodeJS -Dsonar.organization=guillercp93-github -Dsonar.sources=./app -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=$SONAR_TOKEN -X
